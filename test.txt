@@ -1,2 +1,2 @@
-TEST FILE
-test.txt
+Test file.
+1234567890
