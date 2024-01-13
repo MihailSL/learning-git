@@ -1,2 +1,2 @@
-Test file.
-12
+TEST FILE
+test.txt
