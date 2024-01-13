@@ -5,7 +5,7 @@ import random
 def unusual_printing(word: str) -> str:
     """Returns word+exlamation"""
 
-    exclamations = ["!", "?", ".", ",", "?!", "!?", "!!!", ";", "???", ":", "..."]
+    exclamations = ["!", "?", ".", ",", "?!", ",,,",  "!?", "!!!", ";", "???", ":", "..."]
     return f"{word}{random.choice(exclamations)}"
 
 
